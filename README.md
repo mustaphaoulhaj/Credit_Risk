@@ -4,13 +4,13 @@ Ce projet a pour objectif de développer un modèle d'estimation de la Probabili
 
 ## **Outil Utilisé**
 
-* Plateforme : Colab
+* Plateforme : Google Colab
 * Version Python : 3.10
 * Bibliothèques Python : pandas, numpy, scikit-learn, keras, matplotlib, etc.
 
 ## **Source des données**
 
-Les données utilisées dans ce projet sont des données sur le crédit en Allemagne et proviennent du site Kaggle. Vous pouvez accéder aux données via ce lien : [Lien vers les données.](https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk)
+Les données utilisées dans ce projet sont des données sur le crédit en Allemagne et proviennent du site Kaggle. Vous pouvez accéder aux données via ce lien : [German Credit Risk Data](https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk)
 
 ## **Résultats**
 
